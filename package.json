@@ -1,0 +1,18 @@
+{
+  "name": "seanov8-anpr-cloud",
+  "version": "1.0.0",
+  "description": "SEANOV8 ANPR Cloud Server - Hikvision ISAPI Integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16.x"
+  },
+  "keywords": ["anpr", "hikvision", "isapi", "tms", "seanov8"],
+  "author": "SEANOV8 Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
